@@ -1,0 +1,40 @@
+
+
+.header {
+  height: 70px;
+  background: white;
+  color: yellow;
+  text-align: center;
+ 
+
+  margin-top: 20px;
+
+}
+
+.header>nav {
+  height: 100%;
+}
+
+.header>nav>ul {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+ 
+}
+
+.a {
+  text-decoration: none;
+ color: hsla(0, 100%, 50%, 0.911);
+
+
+}
+
+.li {
+  display: contents;
+  flex-direction: column;
+  justify-content: center;
+
+
+}
